@@ -1,0 +1,9 @@
+Sandwich 1:
+MEDIUM WHITE sandwich with ham (toasted)
+Toppings: [SWISS, ONIONS]
+Price: $7.00
+
+Drink 1: LARGE coca cola drink - $3.00
+Chips 1: kuzya lakomkin chips - $1.50
+
+Total: $11.50
