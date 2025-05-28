@@ -1,0 +1,9 @@
+Sandwich 1:
+SMALL WHITE sandwich with steak (toasted)
+Toppings: [ONIONS]
+Price: $5.50
+
+Drink 1: SMALL coca cola drink - $2.00
+Chips 1: lause chips - $1.50
+
+Total: $9.00

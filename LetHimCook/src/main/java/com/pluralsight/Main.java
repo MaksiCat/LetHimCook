@@ -1,4 +1,4 @@
-package lethimcook;
+package com.pluralsight;
 
 import lethimcook.screens.OrderScreen;
 
